@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Fallowing Passions!"
-date:       2019-10-30 21:51:38 +0000
+date:       2019-10-30 17:51:38 -0400
 permalink:  fallowing_passions
 ---
 
@@ -11,5 +11,4 @@ permalink:  fallowing_passions
 
 	After a few months of learning some basics, I remember coming home from work, showing my wife and being excited about what I learned and sharing it with her. After showing her a basic trick I learned, She responded to me with “Eric, I know you love to learn new things and share them but this is way above my head and I don't understand how you do it, but it’s really cool and I'm happy for you that you're learning this!” We both just laughed together and she told me that she sees how excited I get about programming and I should think about looking into going to school for that. That same evening I started researching schools that I could enroll in. I specifically was looking for a school with an option for work and home life balance. While researching, I came across the option for bootcamps, which then led me to all I was looking for, in  Flatiron.
 
-	To this point beginning a new chapter in my life here at Flatiron has been the best decision I have made for me and my family. Since I fully opened the door to programming, I can see that passion and joy alive in me again, and I can't wait to one day take my knowledge out into the world to find my career. 
-****
+	To this point beginning a new chapter in my life here at Flatiron has been the best decision I have made for me and my family. Since I fully opened the door to programming, I can see that passion and joy alive in me again, and I can't wait to one day take my knowledge out into the world to find my career.
