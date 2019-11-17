@@ -1,16 +1,16 @@
 ---
 layout: post
 title:      "(Cheat Sheet) Keeping Things Simple"
-date:       2019-11-17 17:30:25 +0000
+date:       2019-11-17 12:30:26 -0500
 permalink:  cheat_sheet_keeping_things_simple
 ---
 
 
-So far in my experence learning, keeping track of every term and method I have learned in ruby has been tough. But I have gathered some informatoin that has helped. I want to share out a cheat sheet of infromatoin I have put together to help anyone out if they need something to reference. 
+So far in my experence learning, keeping track of every term and method I have learned in Ruby has been tough. But I have gathered some informatoin that has helped me along this journey. I want to share out a cheat sheet of information I have put together to help anyone out if they need something to reference. 
 
 Every example is just that an example but I hope it helps when as you go through your program.  
 
-To start hear are some early learned Information:
+To start, here is some early learned Information:
 
     # (This is usful in making comments within your program)
 		
@@ -58,9 +58,9 @@ To start hear are some early learned Information:
 [puts, print, and p ](https://www.rubyguides.com/2018/10/puts-vs-print/)
 	 
 	 
-Next I will share some method exaples: 
+Next I will share some method examples: 
 
-    # Sencse everythings an object, Strings are objects
+    # Since everything is an object, Strings are objects
 		'I am a string'.class #=> String  (single quotes)
 		"I am a string too".class #=> String (dubble quotes)
 		
@@ -69,7 +69,7 @@ Next I will share some method exaples:
 		"I can #{example} when using double quoted strings"
 		#=> "I can use string interpolation when using double quoted strings"
 		
-		# Strings can be combined but onely with onself. 
+		# Strings can be combined but only with onself. 
 		"hello " + "world"  #=> "hello world"
 		"hello " + 1 #=> TypeError: can't convert Fixnum into String
 		"hello " + 5.to_s #=> "hello 3"
@@ -81,15 +81,15 @@ Next I will share some method exaples:
 		t #=> 76
 		
 		# Note that assignment returns the value assigned
-		# This means you can do multiple assignment:
+		# This means you can do multiple assignments:
 		x = t = 89 #=> 89
 		x #=> 89
 		t #=> 89
 		
 		# Use descriptive variable names
-		variable_names = 'This ia an easier way to read variable names'
+		variable_names = 'This is an easier way to read variable names'
 		variableNames = 'This just looks messie'
-		vaiables = 'Try to keep things simple, clean and please help yourself by having them makse sense'
+		vaiables = 'Try to keep things simple, clean and please help yourself by having them make sense'
 		
 		
 		
@@ -97,7 +97,8 @@ Next I will share some method exaples:
 		
 
 		
-I used an outline I found online and rewored mostly everthing. I foud this to be extreamly helpful and if you would like to look it up yourself I will proved the link. [Cheat Sheet](http://https://www.vikingcodeschool.com/professional-development-with-ruby/ruby-cheat-sheet)
+I used an outline I found online and reworded mostly everthing. I found this to be extremely helpful and if you would like to look it up yourself I will provided the link below:
+[Cheat Sheet](http://https://www.vikingcodeschool.com/professional-development-with-ruby/ruby-cheat-sheet)
 		
 		
 		
