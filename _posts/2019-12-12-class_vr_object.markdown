@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Class Vr. Object"
-date:       2019-12-13 03:39:08 +0000
+date:       2019-12-12 22:39:09 -0500
 permalink:  class_vr_object
 ---
 
