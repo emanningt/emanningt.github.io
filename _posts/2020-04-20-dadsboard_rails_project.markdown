@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "DadsBoard Rails Project"
-date:       2020-04-20 05:17:47 +0000
+date:       2020-04-20 01:17:48 -0400
 permalink:  dadsboard_rails_project
 ---
 
