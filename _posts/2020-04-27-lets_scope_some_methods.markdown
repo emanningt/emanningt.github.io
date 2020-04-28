@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Let's Scope Some Methods"
-date:       2020-04-28 02:56:46 +0000
+date:       2020-04-27 22:56:47 -0400
 permalink:  lets_scope_some_methods
 ---
 
