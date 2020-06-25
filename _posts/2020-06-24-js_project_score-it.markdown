@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JS Project Score-It"
-date:       2020-06-24 21:48:48 +0000
+date:       2020-06-24 17:48:49 -0400
 permalink:  js_project_score-it
 ---
 
@@ -23,6 +23,6 @@ document.createElement(name)
 
 ```
 
-This is just some vanila JavaScript. 
+This is just some [Vanilla](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86) JavaScript. 
 
 
