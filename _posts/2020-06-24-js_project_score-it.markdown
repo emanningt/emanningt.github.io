@@ -12,7 +12,7 @@ First the DOM... What the heck is that!?
 
 Well to start DOM stands for Document Object Model. The way I have heard this best described is "The browser's internal programmatic reprsentation of the web page.". This basicly means you can use JavaScript to minipulate the DOM withought actually changing the HTML thats already there. 
 
-To give some examoles of Document Object Model it would look something like this:
+To give some examples of Document Object Model (DOM) it would look something like this:
 
 ```
 document.getElementById(id)
@@ -23,6 +23,7 @@ document.createElement(name)
 
 ```
 
-This is just some [Vanilla](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86) JavaScript. 
+This is just some [Vanilla](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86) JavaScript. These examples is the DOM taking controle the HTML elements on the page. When working on the front end with JavaScript this becomes importent becuse this gives you the developer more control of the elements on the page that YOU want to update, change, or what ever you need to happen. 
 
+Theres greate examples of how you may use this in a [Manipulating Documents](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents) artical. This is well broken down and simple to un
 
